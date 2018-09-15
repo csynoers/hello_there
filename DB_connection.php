@@ -1,3 +1,3 @@
 <?php
-    $db = mysql_connect();
+    $db = mysqli_connect();
 ?>
